@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415296572903",
+    "project_id": "amorena-perfume",
+    "storage_bucket": "amorena-perfume.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415296572903:android:46d02ce824c372e1ccc142",
+        "android_client_info": {
+          "package_name": "com.example.amorena_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyP5S5WQXNIu6chY0tkASpXRMlpTEuGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
